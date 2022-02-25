@@ -1,0 +1,7 @@
+{ 
+  "expo":{
+      "ExpenseTracker"
+  },
+  "name": "ExpenseTracker",
+  "displayName": "ExpenseTracker"
+}
